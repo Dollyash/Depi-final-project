@@ -1,4 +1,4 @@
-First, Raw data uploaded then cleaned using SQL.
+First, Raw data uploaded then cleaned using SQL and python.
 Second, Dashboard created using plateau.
 Third, another dashboard created using power Bi. 
 Fourth, EDA done using SQL.
